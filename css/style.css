@@ -407,4 +407,17 @@ footer .fixwidth small {
   outline: none;
 }
 
+.tableofcontent{
+  border: 1px solid #000;
+  padding: 0 20px;
+}
 
+.tableofcontent ul{
+  list-style: none;
+  padding-left: 0;
+  line-height: 24px;
+
+}
+.tableofcontent ul li  a{
+  text-decoration: none;
+}
